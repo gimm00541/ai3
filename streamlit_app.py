@@ -74,6 +74,12 @@ labels[0]: {
       "images": ["https://cdn.imweb.me/upload/S20220826948cbdc34dca3/1e0c8bbbe23a7.jpg"],
        "videos": ["https://www.youtube.com/watch?v=tlOrlYSVbVE"]
  },
+
+labels[1]: {
+       "texts": ["파스타맛있다"],
+      "images": ["https://recipe1.ezmember.co.kr/cache/recipe/2019/04/01/f8b3042c80a214dd7cc60fa2027cdc9d1.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=58EZ0_8oPG4"]
+ },
 }
 
 # ======================
