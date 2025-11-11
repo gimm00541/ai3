@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
 labels[0]: {
        "texts": ["치킨맛있다"],
-    #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+      "images": ["https://cdn.imweb.me/upload/S20220826948cbdc34dca3/1e0c8bbbe23a7.jpg"],
        "videos": ["https://www.youtube.com/watch?v=tlOrlYSVbVE"]
  },
 }
