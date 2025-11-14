@@ -80,6 +80,10 @@ labels[1]: {
       "images": ["https://recipe1.ezmember.co.kr/cache/recipe/2019/04/01/f8b3042c80a214dd7cc60fa2027cdc9d1.jpg"],
        "videos": ["https://www.youtube.com/watch?v=58EZ0_8oPG4"]
  },
+labels[2]: {
+       "texts": ["피자맛있다"],
+      "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHdIZsXHepmaY0KB-sa24dP2oX8EYgMjeEYTVoqAa-8Zs8CVSC9QehUTk_cxOSKxJWhRAfOo7MZo4pvkcJrDvjuPvKLMkjA3-x1mwVqKv3&s=10"],
+       "videos": ["https://www.youtube.com/watch?v=Sfem07xwcD0"]
 }
 
 # ======================
